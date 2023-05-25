@@ -1,0 +1,11 @@
+.box{
+    border: 2px solid red;
+    height: 90px;
+    width: 90px;
+    margin: 50px;
+}
+
+p{
+    padding: 0;
+    margin: 0;
+}
